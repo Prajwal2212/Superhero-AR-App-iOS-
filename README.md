@@ -3,6 +3,13 @@
 ## 1. Goal
 The primary goal of this project is to create an augmented reality (AR) app using ARKit in Swift that displays 3D models of Captain America and Iron Man when their respective playing cards are detected. The app leverages image recognition technology within ARKit to detect custom markers (playing cards), triggering the display of corresponding superhero 3D models.
 
+## Installation
+Clone the repository using git:
+```bash
+git clone https://github.com/Prajwal2212/Superhero-AR-App-iOS-.git
+cd Superhero-AR-App-iOS-
+```
+
 ## 2. Process
 ### 2.1. Tools and Frameworks
 ARKit: Apple's AR framework for detecting images and placing virtual objects in real-world scenes.\
